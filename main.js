@@ -1,3 +1,4 @@
+//prompts for first and second numbers
 
 var firstNumber
 var firstNumber = prompt("Type 1st number");
@@ -16,3 +17,9 @@ if(firstNumber > secondNumber) {
   if(secondNumber > firstNumber) {
     alert("1st number is smaller");
   }
+
+
+//concatenate first and second input number
+
+alert(firstNumber + " " + secondNumber + " " + "I am a baws!")
+
