@@ -22,4 +22,3 @@ if(firstNumber > secondNumber) {
 //concatenate first and second input number
 
 alert(firstNumber + " " + secondNumber + " " + "I am a baws!")
-
